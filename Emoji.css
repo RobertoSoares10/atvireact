@@ -1,0 +1,25 @@
+.cor{
+    color: brown;
+}
+
+.cor1{
+    background-color: beige;
+}
+
+.clicar{
+    height: 65px;
+    width: 65px;
+}
+
+button{
+    width: 70px;
+    height: 70px;
+
+    color: black;
+}
+
+
+.bobo{
+    height: 400px;
+    width: 400px;
+}
